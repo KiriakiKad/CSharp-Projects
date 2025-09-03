@@ -62,3 +62,9 @@ KEY CONCEPTS DEMONSTRATED
 - LIFO principle
 - Error handling with exceptions
 - Encapsulation using private list
+
+---------------------------------------------
+NOTE
+---------------------------------------------
+This project is for educational purposes only and does 
+NOT actually connect to a real database.
