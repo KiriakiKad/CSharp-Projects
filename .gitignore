@@ -1,17 +1,26 @@
-## Visual Studio
-.vs/
-*.user
-*.suo
-*.cache
-*.log
-
-## Build results
+# Build Folders
 bin/
 obj/
 
-## Others
-*.exe
-*.dll
-*.pdb
-*.db
-*.DS_Store
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Properties folder (optional, if it contains only AssemblyInfo.cs)
+Properties/
+
+# Config files if not needed
+*.config
