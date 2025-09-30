@@ -26,5 +26,5 @@ All projects were created and tested using **Microsoft Visual Studio**.
 
 ## Feel free to explore
 
-Feel free to explore, run the code, and see how each concept works in practice.  
+Feel free to explore, run the code and see how each concept works in practice.  
 Happy coding!
