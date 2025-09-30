@@ -18,7 +18,7 @@ The projects in this folder cover a variety of fundamental C# topics, including:
 - **StringBuilder usage**  
 - **FileInfo class for file operations**
 
-These examples are ideal for building a solid foundation in C# programming by learning how to control program flow, manage collections, work with text, and handle files.
+These examples are ideal for building a solid foundation in C# programming by learning how to control program flow, manage collections, work with text and handle files.
 
 ## Development Environment
 
